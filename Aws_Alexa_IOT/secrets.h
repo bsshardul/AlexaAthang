@@ -2,8 +2,8 @@
 
 #define SECRET
 
-const char WIFI_SSID[] = "Shardul's Galaxy S21 FE 5G";       // e.g., "TAMIM2.4G"
-const char WIFI_PASSWORD[] = "Shardul*S21fe";  // e.g., "0544287380"
+const char WIFI_SSID[] = "";       // e.g., "TAMIM2.4G"
+const char WIFI_PASSWORD[] = "";  // e.g., "0544287380"
 
 #define THINGNAME "NodeMcu"
 
