@@ -9,7 +9,7 @@ const char WIFI_PASSWORD[] = "";  // e.g., "0544287380"
 
 int8_t TIME_ZONE = 5;  // Adjust for your region (NYC is -5 UTC)
 
-const char MQTT_HOST[] = "a1d2gkcotwldnu-ats.iot.us-east-1.amazonaws.com";
+const char MQTT_HOST[] = ""; //MQTT Host url xxxxxxxxxxxx-xxx.iot.us-east-x.amazonaws.com
 
 // Root CA certificate (Amazon Root CA 1)
 static const char cacert[] PROGMEM = R"EOF(
